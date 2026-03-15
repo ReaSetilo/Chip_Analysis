@@ -1,4 +1,4 @@
-# Quantium Task 1 – Retail Customer Analytics
+# Retail Customer Analytics
 
 This project analyzes Quantium transaction and customer purchase behaviour data to uncover sales trends, customer segment performance, and product preferences. The notebook focuses on data cleaning, feature engineering, customer segmentation, statistical testing, and actionable commercial insights.
 
